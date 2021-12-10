@@ -1,0 +1,9 @@
+a=200
+b=2.5
+print(bin(a))
+print(a*b)
+c=12+123j
+print(c.real)
+print(c.imag)
+print(a==b)
+print(a>b)
